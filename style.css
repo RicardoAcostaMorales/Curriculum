@@ -6,7 +6,8 @@
     border-style: solid;
     border-color: #000000;
     /*background: url("/PRUEBAGIT/img/fondo.jpg");*/
-    background: url("/img/fondo.jpg")
+    /*background: url("/img/fondo.jpg")*/
+    background-color: black;
 }
 
 h3,h4{
